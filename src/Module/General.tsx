@@ -1,4 +1,4 @@
-import hackathonLogo from './Assets/hackathonLogo.png';
+import hackathonLogo from './Assets/hackathonLogo.jpg';
 
 // Importing all sponsors logos from Assets
 /** Put all your Team member image inside folder `Team Images`
